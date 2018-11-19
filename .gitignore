@@ -1,0 +1,14 @@
+.idea/
+nampa.iml
+test.py
+dump.txt
+__pycache__/
+*.pyc
+*.swp
+cache/
+build/
+dist/
+*.egg-info/
+*.egg
+sdist/
+wheels/
