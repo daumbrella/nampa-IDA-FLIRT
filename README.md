@@ -17,9 +17,9 @@ as the former is completely decoupled from the latter.
 Nampa comes with a small library of `.sig` files, automatically downloaded
 from 3rd-party GitHub repositories when needed.
 
-## Screenshot
+This project can also parse the pat, err file which allows you do not need handle the conflict functions.
 
-![Dialog](./img/dialog.png)
+The filrt_plugin.py is a IDA plugin to use the nampa to identify the functions.
 
 ## Installation
 
