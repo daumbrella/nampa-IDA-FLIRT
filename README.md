@@ -17,9 +17,9 @@ as the former is completely decoupled from the latter.
 Nampa comes with a small library of `.sig` files, automatically downloaded
 from 3rd-party GitHub repositories when needed.
 
-This project can also parse the *pat, err* file which allows you do not need handle the conflict functions.
+This project can also parse the **pat, err** file which allows you do not need handle the conflict functions.
 
-The *filrt_plugin.py* is a IDA plugin to use the nampa to identify the functions.
+The **filrt_plugin.py** is a IDA plugin to use the nampa to identify the functions.
 
 ## Installation
 
